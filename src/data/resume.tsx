@@ -10,7 +10,7 @@ export const DATA = {
     " I thrive on turning complex challenges into user-friendly applications and enjoy making a positive impact through technology.",
   summary:
     "At the mid of 2023, I transitioned from my role as a Software Trainer to fully dedicate myself to building and scaling my own development career.In the past, [I pursued a degree in Masters of Computer Applications](/#education), and [competed in over 11+ hackathons for fun](/#hackathons). Additionally, I've been actively involved in mentoring aspiring developers, sharing my knowledge and passion for technology.",
-  avatarUrl: "/Dp.jpg",
+  avatarUrl: "/Wp dp.jpg",
   skills: [
     "HTML, CSS, JS",
     "PHP, SQL, MongoDB",
